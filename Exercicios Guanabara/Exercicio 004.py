@@ -1,8 +1,9 @@
+# Faça um programa que leia algo pela tela do seu computador e mostre na tela
+# o seu tipo primitivo e todas as informações possiveis sobre ela
 
-#Crie um Programa que leia dois numeros e mostre a soma entre eles
+n1 = input("Digite um Numero: ")
 
-n1=int(input("Digite um Numero: "))
-n2=int(input("Digite outro Numero: "))
-
-print(f"{n1} + {n2} = {n1+n2}")
-
+print(f"É uma Letra: {n1.isalpha()}")
+print(f"É um Numero: {n1.isnumeric()}")
+print(f"É um Decimal: {n1.isdecimal()}")
+print(f"É Minusculo: {n1.islower()}")
