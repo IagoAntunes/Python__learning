@@ -4,4 +4,3 @@
 n1 = int(input("Digite um Numero: "))
 
 print(f"Numero: {n1}\nSucessor: {n1+1} \nAntecessor: {n1 - 1}")
-

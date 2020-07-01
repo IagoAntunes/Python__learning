@@ -7,4 +7,3 @@ mes=input("Mes: ")
 ano=input("Ano: ")
 print("\nDATA DE NASCIMENTO")
 print(f"{dia} {mes} {ano}")
-
