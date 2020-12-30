@@ -1,7 +1,6 @@
 # PYTHON
 ![](https://imgur.com/or85FmQ.png)
 
-- [Curso em Video](https://github.com/IagoAntunes/Python/tree/master/Exercicios%20Guanabara) // HTML(120 Horas)
 
 ***
 ##### Rede Social:
