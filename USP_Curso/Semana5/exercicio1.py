@@ -5,9 +5,6 @@ def maximo(x,y):
     if(y > x):
         return y
 
-
-
-
 n1 = int(input("Numero 1: "))
 n2 = int(input("Numero 2:"))
 
