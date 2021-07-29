@@ -1,8 +1,4 @@
-
-
-num = int(input("Digite o Numero: "))
-
-
-dezena = (num // 10) % 10
-
-print("O digito das dezenas é : ",dezena)
+x = 10
+y = 15
+z = 25
+print(x == z - y and z != y - x or not y != z - x)
